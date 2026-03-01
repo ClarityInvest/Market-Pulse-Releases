@@ -1,11 +1,11 @@
 {
-  "version": "v1.0.6",
+  "version": "v1.0.7",
   "notes": "Update To Latest Version of Market Pulse.",
   "pub_date": "2026-02-24T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVVBWaTN3czZKRzZJYXRVZ2k4RHlLOXZkN2g3WUkvc2xHaHlRYmhQbWdsaGxvM1R5WkV2YWFtdjB4dFBYbytqd3U4a3dmaGlvei9kM1ZuUDJxNGVabXozMzdRYWZjRGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMzMzMjY5CWZpbGU6TWFya2V0IFB1bHNlXzEuMC42X3g2NF9lbi1VUy5tc2kuemlwCjRBN05qRGhRRFAwcEhrWUx3bTZlUjQxdzJ5YnBwNVdvSlJ3THEzOVRyd1p0U0hiTUZZeVRuRE5ZbGk5WHlFREhrSGRiMDRwSjZrK3htNThUMGxiaUFnPT0K",
-      "url": "https://github.com/ClarityInvest/market-pulse-trading-dashboard/releases/download/v1.0.6/Market.Pulse_1.0.6_x64_en-US.msi.zip"
+      "url": "https://github.com/ClarityInvest/Market-Pulse-Releases/releases/download/v1.0.7/Market.Pulse_1.0.7_x64_en-US.msi.zip"
     }
   }
 }
