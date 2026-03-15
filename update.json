@@ -1,11 +1,11 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "notes": "Update To Latest Version of Market Pulse.",
   "pub_date": "2026-03-15T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVVBWaTN3czZKRzVPaU42MERnUTV0WVF2NG5OMlduWU9GZFlPd1ZJUmJWYnIzSUxZWmVpR2tIcVcwRFlNempzdFVOZzJqdjRqVGdaQm5ad0dJenBkWVQxUUFJNUpSdkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNTQ2OTk1CWZpbGU6TWFya2V0IFB1bHNlXzEuMS4wX3g2NF9lbi1VUy5tc2kuemlwCkZ6a0xOSXE1WUJNdjA5Zi84cVYybTBiUzhkQjhpbnpJSHYvZlhCeFdtQ2E3ajRkZjJ5dWNaQ2dHcFM0QUZUSTVQbk1uRGVvZGYzRWpSRGhTdFBHV0F3PT0K",
-      "url": "https://github.com/ClarityInvest/Market-Pulse-Releases/releases/download/v1.1.0/Market.Pulse_1.1.0_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVVBWaTN3czZKR3lkbFBpSjNldkdzZnl3Rms0MDhuaTkwbk9YQXdSaE9VNlBLSWNjNXE0cCs5UDQwdlFLMEpYZHR4aFcvWTh4R3d5UC9JNU1CckRrS3cvdXd2VTU5dlEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNTk3MjU2CWZpbGU6TWFya2V0IFB1bHNlXzEuMS4xX3g2NF9lbi1VUy5tc2kuemlwCjFlUXVQeDJmMGgwVm8wYVFpQTlURlIrVTFXYVJHK2NrK1QwNTlVdGs4OEtqY0l4M3k5R3dkcmUzVXVYbFdDRlRpa1haR2xtMUJ5VWYwNWNMUTVLc0FnPT0K",
+      "url": "https://github.com/ClarityInvest/Market-Pulse-Releases/releases/download/v1.1.1/Market.Pulse_1.1.1_x64_en-US.msi.zip"
     }
   }
 }
